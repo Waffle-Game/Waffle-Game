@@ -3,4 +3,5 @@
 I like making random stuff using random coding languages...  
 (what are you doing here anyways?)
 ### Things im doing
-Making a growtopia trading simulator
+Making a gt trading simulator  
+WAFLET
