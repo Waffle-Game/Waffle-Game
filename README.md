@@ -4,7 +4,7 @@ I like making random stuff using random coding languages...
 (what are you doing here anyways?)
 ### My github stats
 ###### im bad at this
-![Waffle-Game's GitHub stats](https://github-readme-stats.vercel.app/api?username=waffle-game&show_icons=true&theme=radical)  
+![Waffle-Game's GitHub stats](https://github-readme-stats.vercel.app/api?username=waffle-game&show_icons=true&theme=radical)<img src="https://github-readme-streak-stats.herokuapp.com/?user=sksalahuddin2828"></img>
   
 Im gonna get that all the way up to an S... one day...
 ### Things im doing
